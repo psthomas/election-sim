@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+notes/*
+data_prep.ipynb
+simulation.ipynb
+data/archive/*
+!data/archive/.gitinclude
+data/polls/economist/output/*
+*.zip

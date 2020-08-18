@@ -1,0 +1,14 @@
+name: election-sim
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - notebook
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - statsmodels
+prefix: /Users/psthomas/miniconda3/envs/election-sim
+
