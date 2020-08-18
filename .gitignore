@@ -7,3 +7,4 @@ data/archive/*
 !data/archive/.gitinclude
 data/polls/economist/output/*
 *.zip
+data/polls/fivethirtyeight/pres_pollaverages_1968-2016.csv
